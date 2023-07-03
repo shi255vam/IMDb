@@ -1,13 +1,13 @@
 /* CSS Variables */
 :root {
     --default-text-color: #fff;
-    --page-background-color: #a9a2bd;
-    --form-color: rgb(109, 114, 121);
-    --search-icon-color: #eb9485;
+    --page-background-color: green;
+    --form-color: rgb(16, 62, 126);
+    --search-icon-color: black;
     --card-color: rgb(18, 21, 21);
     --default-heart-color: rgb(175, 233, 225);
     --heart-red-color: #ec0638;
-    --favourite-section-color: rgb(248, 187, 192);
+    --favourite-section-color: rgb(183, 20, 20);
     --fav-movie-card-color: rgb(12, 11, 11);
     --delete-button-color: #eb6582;
   }
@@ -233,7 +233,7 @@ a {
   }
   
   .fa-trash-can {
-    color: whitesmoke;
+    color: white;
     font-size: 1rem;
   }
   
@@ -321,3 +321,4 @@ a {
       height: 100vh;
     }
   }
+  
